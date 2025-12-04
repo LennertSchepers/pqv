@@ -9,3 +9,13 @@ Simple parquet viewer.
 ```
 pip install pqv
 ```
+
+## Use
+
+```
+pqv <path-to-your.parquet>
+```
+or 
+```
+python -m pqv <path-to-your.parquet>
+```
